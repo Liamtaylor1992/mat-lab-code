@@ -1,0 +1,7 @@
+order = {'Exersise','Pick Up Object','Sitting Down','Standing Up','Walking', }
+
+confusionchart(KNN.con,order)
+
+order = {'Exersise','Pick Up Object','Sitting Down','Standing Up','Walking', }
+
+confusionchart(KNN.con,order)
